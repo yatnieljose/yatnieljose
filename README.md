@@ -1,11 +1,11 @@
 ### Hello there :wave:
-2
+
 <!--
-3 I'm currently working on a web page tool.
-4 I'm currently learning basic web page development.
-5 I'm looking to collaborate on C++ projects.
-6 I'm looking for help with project ideas to build skill and assemble a portfolio.
-7 Ask me how I may help.
-8 I can be at: yatnieljose0208@gmail.com
-9 Fun Fact: I love snowboarding! 
+- I'm currently working on a web page tool.
+- I'm currently learning basic web page development.
+- I'm looking to collaborate on C++ projects.
+- I'm looking for help with project ideas to build skill and assemble a portfolio.
+- Ask me how I may help.
+- I can be at: yatnieljose0208@gmail.com
+- Fun Fact: I love snowboarding! 
 -->
